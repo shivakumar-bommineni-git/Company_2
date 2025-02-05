@@ -19,7 +19,7 @@ const NavBar = () => {
         <Row xs={9} className='align-items-center '>
           <Col md={10} sm={9} xs={9} className='d-inline-flex'>
             <Nav.Link href="#location" className={NavStyle.headLoc}><FaLocationDot className={NavStyle.locicon}/>Location</Nav.Link>
-            <span className={`ms-4 ${NavStyle.headPhone}`}><FaPhoneAlt /> +91 9494751795</span>
+            <span className={`ms-4 ${NavStyle.headPhone}`}><FaPhoneAlt /> +91 9494489363</span>
             <Nav.Link href="mailto:srnritsolutions@gmail.com"  className={`ms-4 ${NavStyle.headEmail}`}><MdOutlineEmail /> srnritsolutions@gmail.com</Nav.Link>
           </Col>
           <Col md={2} sm={2} xs={3} className='d-flex justify-content-end' >
